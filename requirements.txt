@@ -1,0 +1,19 @@
+# Core dependencies
+torch>=1.10.0
+transformers>=4.20.0
+wikipedia-api>=0.5.4
+requests>=2.26.0
+python-dotenv>=0.19.0
+spacy>=3.5.0
+en-core-web-lg>=3.5.0
+numpy>=1.21.0
+typing-extensions>=4.0.0
+
+# Testing dependencies
+pytest>=6.2.5
+pytest-cov>=2.12.1
+
+# Development dependencies
+black>=21.9b0
+isort>=5.9.3
+flake8>=3.9.2

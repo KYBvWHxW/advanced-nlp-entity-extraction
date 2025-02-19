@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Blue Cotton T-Shirt",
+            "category": "PRODUCT_CLOTHING",
+            "price": "19.99",
+            "attributes": {
+                "color": "blue",
+                "size": "M",
+                "brand": "ComfortWear",
+                "material": "cotton"
+            },
+            "description": "Classic comfortable cotton t-shirt in blue",
+            "rating": "4.5",
+            "reviews": [
+                {"text": "Great quality and fit!", "rating": 5},
+                {"text": "Nice color, comfortable material", "rating": 4}
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Black Slim-Fit Jeans",
+            "category": "PRODUCT_CLOTHING",
+            "price": "49.99",
+            "attributes": {
+                "color": "black",
+                "size": "32",
+                "brand": "DenimCo",
+                "style": "slim-fit"
+            },
+            "description": "Modern slim-fit jeans in classic black",
+            "rating": "4.0",
+            "reviews": [
+                {"text": "Perfect fit, good quality denim", "rating": 4},
+                {"text": "Stylish and comfortable", "rating": 4}
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Wireless Noise-Canceling Headphones",
+            "category": "PRODUCT_ELECTRONICS",
+            "price": "199.99",
+            "attributes": {
+                "color": "silver",
+                "brand": "SoundTech",
+                "battery_life": "20h",
+                "connectivity": "bluetooth"
+            },
+            "description": "Premium wireless headphones with active noise cancellation",
+            "rating": "4.8",
+            "reviews": [
+                {"text": "Amazing sound quality!", "rating": 5},
+                {"text": "Great battery life and comfort", "rating": 5}
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Smartphone XS",
+            "category": "PRODUCT_ELECTRONICS",
+            "price": "799.99",
+            "attributes": {
+                "color": "space gray",
+                "brand": "TechPro",
+                "storage": "256GB",
+                "screen_size": "6.1\""
+            },
+            "description": "Latest smartphone with advanced camera system",
+            "rating": "4.7",
+            "reviews": [
+                {"text": "Excellent camera and performance", "rating": 5},
+                {"text": "Beautiful design and great features", "rating": 4}
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Professional Programming Guide",
+            "category": "PRODUCT_MEDIA",
+            "price": "39.99",
+            "attributes": {
+                "format": "hardcover",
+                "pages": "450",
+                "publisher": "TechPress",
+                "language": "English"
+            },
+            "description": "Comprehensive guide to modern programming practices",
+            "rating": "4.6",
+            "reviews": [
+                {"text": "Very well written and informative", "rating": 5},
+                {"text": "Great for both beginners and advanced developers", "rating": 4}
+            ]
+        }
+    ]
+}
